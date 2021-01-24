@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/jazzdrive-kaios/static/css/main.742d4e51.chunk.css",
-    "main.js": "/jazzdrive-kaios/static/js/main.b46da96c.chunk.js",
-    "main.js.map": "/jazzdrive-kaios/static/js/main.b46da96c.chunk.js.map",
+    "main.css": "/jazzdrive-kaios/static/css/main.f9f7640d.chunk.css",
+    "main.js": "/jazzdrive-kaios/static/js/main.784c37fe.chunk.js",
+    "main.js.map": "/jazzdrive-kaios/static/js/main.784c37fe.chunk.js.map",
     "runtime-main.js": "/jazzdrive-kaios/static/js/runtime-main.8729061f.js",
     "runtime-main.js.map": "/jazzdrive-kaios/static/js/runtime-main.8729061f.js.map",
     "static/js/2.38892488.chunk.js": "/jazzdrive-kaios/static/js/2.38892488.chunk.js",
@@ -14,13 +14,13 @@
     "static/js/5.b2a8a79c.chunk.js": "/jazzdrive-kaios/static/js/5.b2a8a79c.chunk.js",
     "static/js/5.b2a8a79c.chunk.js.map": "/jazzdrive-kaios/static/js/5.b2a8a79c.chunk.js.map",
     "index.html": "/jazzdrive-kaios/index.html",
-    "static/css/main.742d4e51.chunk.css.map": "/jazzdrive-kaios/static/css/main.742d4e51.chunk.css.map",
+    "static/css/main.f9f7640d.chunk.css.map": "/jazzdrive-kaios/static/css/main.f9f7640d.chunk.css.map",
     "static/js/2.38892488.chunk.js.LICENSE.txt": "/jazzdrive-kaios/static/js/2.38892488.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8729061f.js",
     "static/js/2.38892488.chunk.js",
-    "static/css/main.742d4e51.chunk.css",
-    "static/js/main.b46da96c.chunk.js"
+    "static/css/main.f9f7640d.chunk.css",
+    "static/js/main.784c37fe.chunk.js"
   ]
 }
