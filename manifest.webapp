@@ -3,10 +3,10 @@
 	"description": "jazz drive app ",
 	"launch_path": "/jazzdrive-kaios/",
 	"icons": {
-		"16": "/jazzdrive-kaios/icons/icon16x16.png",
-		"48": "/jazzdrive-kaios/icons/icon48x48.png",
-		"60": "/jazzdrive-kaios/icons/icon60x60.png",
-		"128": "/jazzdrive-kaios/icons/icon128x128.png"
+		"16": "/icons/icon16x16.png",
+		"48": "/icons/icon48x48.png",
+		"60": "/icons/icon60x60.png",
+		"128": "/icons/icon128x128.png"
 	},
 	"developer": {
 		"name": "switchsolutions",
