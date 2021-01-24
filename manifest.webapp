@@ -1,7 +1,7 @@
 {
 	"name": "Jazzdrive",
 	"description": "jazz drive app ",
-	"launch_path": "/jazzdrive-kaios/",
+	"launch_path": "/Jazzdrive-kaios",
 	"icons": {
 		"16": "/icons/icon16x16.png",
 		"48": "/icons/icon48x48.png",
@@ -11,6 +11,19 @@
 	"developer": {
 		"name": "switchsolutions",
 		"url": "http://switchsolutions.com.pk"
+	},
+	"installs_allowed_from": ["*"],
+	"default_locale": "en",
+	"permissions": {
+		"desktop-notification": {
+			"description": "To show notifications"
+		},
+		"geolocation": {
+			"description": "Marking out user location"
+		},
+		"alarms": {
+			"description": "Scheduling alarms"
+		}
 	},
 	"cursor": true
 }
