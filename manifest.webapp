@@ -1,7 +1,7 @@
 {
 	"name": "Jazzdrive",
 	"description": "jazz drive app ",
-	"launch_path": "/Jazzdrive-kaios",
+	"launch_path": "/Jazzdrive-kaios/",
 	"icons": {
 		"16": "/icons/icon16x16.png",
 		"48": "/icons/icon48x48.png",
